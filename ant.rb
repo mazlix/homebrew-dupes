@@ -1,7 +1,7 @@
 require 'formula'
 
 class Ant < Formula
-  url 'http://www.apache.org/dyn/closer.cgi/ant/binaries/apache-ant-1.8.3-bin.tar.gz'
+  url 'http://apache.deathculture.net/ant/binaries/apache-ant-1.8.4-bin.tar.gz'
   homepage 'http://ant.apache.org/'
   md5 'd13be81f715c51ce3e13a7149fd92765'
 
